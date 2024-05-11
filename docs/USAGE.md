@@ -77,6 +77,7 @@ This section provides the unofficial installation guides by open-source contribu
 
 - Windows
   - [Guide](https://github.com/Alienpups/OpenVoice/blob/main/docs/USAGE_WINDOWS.md) by [@Alienpups](https://github.com/Alienpups)
+  - Another option for Windows is to use the **Linux instructions above** in MiniConda, make sure you have [Microsoft Visual](https://visualstudio.microsoft.com/visual-cpp-build-tools/) C++ 14.0 or greater installed especially if you want to give OpenVoice V2 a try. 
   - You are welcome to contribute if you have a better installation guide. We will list you here.
 - Docker
   - [Guide](https://github.com/StevenJSCF/OpenVoice/blob/update-docs/docs/DF_USAGE.md) by [@StevenJSCF](https://github.com/StevenJSCF)
